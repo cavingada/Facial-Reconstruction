@@ -1,2 +1,2 @@
 # Facial-Reconstruction
-In this project, I implement Principal Component Analysis and Dimensional Reduction from scratch by analyzing 157 face images and  reconstructing the remaining 20 using eigen decomposition.  
+In this project, I implement Principal Component Analysis and Dimensional Reduction from scratch by analyzing 157 face images and  reconstructing the remaining 20 using eigen decomposition. If you would like to run the code on your own system and tinker with the function parameter calls, please download the zip file of face data, extract it, and leave it in the same folder as the jupyter notebooks file. 
